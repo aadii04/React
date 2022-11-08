@@ -1,0 +1,40 @@
+{
+  "workouts": [
+    {
+      "id": 1,
+      "name": "Cycling",
+      "cbpm": 100,
+      "desc": "Great",
+      "startTime": "2022-11-04T06:36:53.566Z",
+      "endTime": "2022-11-04T09:34:12.117Z",
+      "TotalCalories": 17730.918333333335
+    },
+    {
+      "name": "Walking",
+      "cbpm": "200",
+      "desc": "Good",
+      "id": 3,
+      "startTime": "2022-11-04T06:55:47.739Z",
+      "endTime": "2022-11-04T09:34:17.348Z",
+      "TotalCalories": 31698.696666666667
+    },
+    {
+      "name": "Swimming",
+      "cbpm": "500",
+      "desc": "Very",
+      "id": 4,
+      "startTime": "2022-11-04T06:36:58.766Z",
+      "endTime": "2022-11-04T09:33:57.206Z",
+      "TotalCalories": 88487
+    },
+    {
+      "name": "Running",
+      "cbpm": "300",
+      "desc": "Its is good for health",
+      "id": 5,
+      "startTime": "2022-11-04T06:36:57.767Z",
+      "endTime": "2022-11-04T09:32:46.519Z",
+      "TotalCalories": 52743.76
+    }
+  ]
+}
